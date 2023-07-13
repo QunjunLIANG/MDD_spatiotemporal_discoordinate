@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+<<<<<<< Updated upstream
+output/STPdistance_collection.csv
+=======
+output/STPdistance_collection.csv
+>>>>>>> Stashed changes
+output/gradient_distance_collection.csv
+output/TDEFC_distance_collection.csv
+Achievements_in_stage_0314.pptx
+output/*
+TDE_gradient_analysis.Rproj
+tde_gradient_coupling_in_-mdd.Rproj
+backup_script/*
